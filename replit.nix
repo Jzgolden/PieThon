@@ -21,3 +21,5 @@
     PRYBAR_PYTHON_BIN = "${pkgs.replitPackages.prybar-python310}/bin/prybar-python310";
   };
 }
+
+#File used in the Replit platform, specifically in the context of Nix, a purely functional package manager and build system
