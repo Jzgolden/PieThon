@@ -1,0 +1,15 @@
+[[package]]
+name = "mylibfahad"
+version = "0.2"
+description = "Testing to creat a library"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "251fc9034b94a794379b0232aede94fa70c0ff966402e4baa5fefe86a3efe3f3"
+
+[metadata.files]
+mylibfahad = []
