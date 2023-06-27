@@ -11,6 +11,7 @@ print(divide_five_by(10))
 
 
 
+
 # Try Except Except
 try:
   even_numbers = [2, 4, 6, 8]
@@ -21,7 +22,6 @@ except IndexError:
 
 except ZeroDivisionError:
   print("NO")
-
 
 
 
