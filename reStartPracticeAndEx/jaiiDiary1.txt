@@ -1,0 +1,2 @@
+# Fixed 
+# Used for openCloseWrite.py Example.
