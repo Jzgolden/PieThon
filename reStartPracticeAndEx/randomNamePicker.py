@@ -43,7 +43,8 @@ while pick != "Stop":
     pickName(classNames)
   except IndexError:
     print("There are no other names to pick from!")
-print("Thanks for using our prgram!")
+  finally:
+  print("Thanks for using our prgram!")
 
 
 
