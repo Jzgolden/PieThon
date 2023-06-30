@@ -44,7 +44,7 @@ while pick != "Stop":
   except IndexError:
     print("There are no other names to pick from!")
   finally:
-  print("Thanks for using our prgram!")
+    print("Thanks for using our prgram!")
 
 
 

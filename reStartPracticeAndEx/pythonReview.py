@@ -49,3 +49,26 @@ except FileNotFoundError:
 raise MemoryError("Running out of memory, buy a better rig to play games with a good FPS")
 
 #--------------------------------------------------------
+
+cities = ["Charlotte", "Tashkent", "Hampton", "Milan", "Gastonia"]
+
+cities.insert(3, "Charleston")
+print(cities)
+
+cities.remove("Hampton")
+print(cities)
+
+cities.pop(2)
+print(cities)
+
+#--------------------------------------------------------
+
+x = False
+
+while x == False:
+  user_write = input("Yes / No")
+  if user_write == "No":
+    x = True
+  elif user_write == "Yes":
+    print ("Good job")
+  
