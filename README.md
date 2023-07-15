@@ -1,2 +1,2 @@
 # PieThon
-Introduction to Python
+Introduction to Python and other projects
